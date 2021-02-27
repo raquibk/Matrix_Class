@@ -2,14 +2,13 @@ Running Instructions: Simply run the command line argument 'make' to compile the
                       Please ensure that main.cpp, matrix.cpp, and matrix.h are in the same directory.
                       Then, run the program by typing ./we4_solution
 
-Files included: 1. README
-                2. matrix.h: This is a header file which contains all the declarations, and the
-                             operator overloading of the class Matrix(). 
-
-                3. matrix.cpp: This file contains the body of all the methods, operator overloading
-                               of class Matrix() declared in matrix.h
-                4. Makefile: This Makefile compiles matrix.h, matrix.cpp into one single object file
-                             namely matrix.o
+Files included: <p> - README </p>
+                <p> - matrix.h: This is a header file which contains all the declarations, and the
+                             operator overloading of the class Matrix(). </p>
+                <p> - matrix.cpp: This file contains the body of all the methods, operator overloading
+                               of class Matrix() declared in matrix.h </p>
+                <p> - Makefile: This Makefile compiles matrix.h, matrix.cpp into one single object file
+                             namely matrix.o </p>
 
 Targets of Makefile- 1. we4_solution: The final executable
                      2. clean: Cleans (removes) all object files created
